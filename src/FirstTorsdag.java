@@ -9,4 +9,15 @@ void main(){
     System.out.println(subtotal);
     System.out.println(subtotal+withTax);
 
+//opgave 2
+    double food = 450;
+    double drink = 120;
+    double tip = 50;
+    int pep = 4;
+    double total = food+drink+tip;
+    double prPerson = total/pep;
+    System.out.println(prPerson);
+
+//opgave 3
+
 }
