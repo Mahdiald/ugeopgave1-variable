@@ -1,3 +1,3 @@
 # ugeopgave1-variable
-Mahdi Al_Dailemi
+Mahdi Al-Dailemi
 Mahdiald.2003@gmail.com
