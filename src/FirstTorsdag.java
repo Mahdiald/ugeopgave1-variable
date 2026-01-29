@@ -98,4 +98,49 @@ void main(){
     System.out.println(number);
     number --;
     System.out.println(number);
+
+//opgave 11
+    String productName = "Laptop";
+    double PRprice = 7999.99;
+    boolean inStock = true;
+    int quantity = 15;
+    double discount = 10;
+    String category = "Electronics";
+
+//opgave 12
+    String studentName = "Anna";
+    int testPoints = 85;
+    int assignmentPoints = 92;
+    double finalGrade = 88.5;
+    boolean passed = true;
+
+//opgave 13
+    String customerName = "Peter Hansen";
+    int roomNumber = 204;
+    int nightStayed = 3;
+    double priceNight = 899.00;
+    boolean includeBreakfast = true;
+    double subtotal = 2697.00;
+
+//opgave 14
+    int stepsToday = 8547;
+    int stepsGoal = 10000;
+    double travleDistanceKm = 6.2;
+    int caloriesBurnt = 420;
+    boolean goalReached = false;
+
+//opgave 15
+    String bookTitle = "Letting go the pathway of surrender";
+    String author = "David R. Hawkins, M.D, Ph.D.";
+    String ISBNnum = "ISBN: 978-1-4019-4501-5";
+    int pages = 368;
+    boolean availableNow = false;
+    String currentlyBorrowedBy = "Josephine Eriksen ";
+    String returnDate = "03/02/2026";
+    double fineIfLate = 100;
+    boolean bestseller = true;
+    double rating = 4.4;
+
+
+
 }
